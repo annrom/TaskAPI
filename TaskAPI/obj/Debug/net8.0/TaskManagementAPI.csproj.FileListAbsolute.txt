@@ -1,0 +1,5 @@
+C:\Users\alqa9_okk27ur\OneDrive\Dokumenty\TaskManagementAPI\TaskManagementAPI\obj\Debug\net8.0\TaskManagementAPI.csproj.AssemblyReference.cache
+C:\Users\alqa9_okk27ur\OneDrive\Dokumenty\TaskManagementAPI\TaskManagementAPI\obj\Debug\net8.0\TaskManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alqa9_okk27ur\OneDrive\Dokumenty\TaskManagementAPI\TaskManagementAPI\obj\Debug\net8.0\TaskManagementAPI.AssemblyInfoInputs.cache
+C:\Users\alqa9_okk27ur\OneDrive\Dokumenty\TaskManagementAPI\TaskManagementAPI\obj\Debug\net8.0\TaskManagementAPI.AssemblyInfo.cs
+C:\Users\alqa9_okk27ur\OneDrive\Dokumenty\TaskManagementAPI\TaskManagementAPI\obj\Debug\net8.0\TaskManagementAPI.csproj.CoreCompileInputs.cache
