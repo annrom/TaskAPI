@@ -10,6 +10,7 @@ using TaskAPI.Data;
 using TaskAPI.Interfaces;
 using TaskAPI.Services;
 using Microsoft.AspNetCore.Builder;
+
 public class Startup
 {
     public IConfiguration Configuration { get; }
@@ -25,7 +26,7 @@ public class Startup
             options.UseSqlite(Configuration.GetConnectionString("DefaultConnection")));
 
         services.AddHangfire(x => x.UseSqlServerStorage(Configuration.GetConnectionString("HangfireConnection")));
-        //services.AddHangfireServer(); !
+        services.AddHangfireServer();
 
         services.AddScoped<IEmailService, EmailService>();
         services.AddScoped<TaskSchedulerService>();

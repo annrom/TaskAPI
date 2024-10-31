@@ -17,7 +17,6 @@
     <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore\9.0.0-rc.2.24474.1\buildTransitive\net8.0\Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore\9.0.0-rc.2.24474.1\buildTransitive\net8.0\Microsoft.EntityFrameworkCore.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <PkgNewtonsoft_Json Condition=" '$(PkgNewtonsoft_Json)' == '' ">C:\Users\alqa9_okk27ur\.nuget\packages\newtonsoft.json\9.0.1</PkgNewtonsoft_Json>
-    <PkgHangfire_SqlServer Condition=" '$(PkgHangfire_SqlServer)' == '' ">C:\Users\alqa9_okk27ur\.nuget\packages\hangfire.sqlserver\1.6.17</PkgHangfire_SqlServer>
+    <PkgHangfire_SqlServer Condition=" '$(PkgHangfire_SqlServer)' == '' ">C:\Users\alqa9_okk27ur\.nuget\packages\hangfire.sqlserver\1.7.35</PkgHangfire_SqlServer>
   </PropertyGroup>
 </Project>

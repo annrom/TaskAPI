@@ -7,11 +7,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d3b83a6-66e6-47fe-909e-4c7e095e54f6" name="Changes" comment="" />
+    <list default="true" id="7d3b83a6-66e6-47fe-909e-4c7e095e54f6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TaskManagementAPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TaskManagementAPI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaskAPI/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TaskAPI/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaskAPI/TaskAPI.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TaskAPI/TaskAPI.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaskAPI/obj/Debug/net8.0/TaskAPI.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TaskAPI/obj/Debug/net8.0/TaskAPI.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaskAPI/obj/Debug/net8.0/TaskAPI.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TaskAPI/obj/Debug/net8.0/TaskAPI.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaskAPI/obj/Debug/net8.0/TaskAPI.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TaskAPI/obj/Debug/net8.0/TaskAPI.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaskAPI/obj/Debug/net8.0/TaskAPI.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TaskAPI/obj/Debug/net8.0/TaskAPI.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaskAPI/obj/Debug/net8.0/TaskAPI.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TaskAPI/obj/Debug/net8.0/TaskAPI.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaskAPI/obj/Debug/net8.0/TaskAPI.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TaskAPI/obj/Debug/net8.0/TaskAPI.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaskAPI/obj/TaskAPI.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TaskAPI/obj/TaskAPI.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaskAPI/obj/TaskAPI.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/TaskAPI/obj/TaskAPI.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaskAPI/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/TaskAPI/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaskAPI/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TaskAPI/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaskAPI/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TaskAPI/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaskAPI/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/TaskAPI/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaskAPI/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/TaskAPI/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/TaskAPI/Controllers/TasksController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -36,6 +56,7 @@
   &quot;keyToString&quot;: {
     &quot;.NET Project.TaskManagementAPI.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -73,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730245968909</updated>
-      <workItem from="1730245970010" duration="5449000" />
+      <workItem from="1730245970010" duration="8199000" />
     </task>
     <servers />
   </component>
